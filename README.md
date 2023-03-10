@@ -17,9 +17,9 @@ For this project, I...
 
 ## Products
 
-* Research Presentation 
+* Research Presentation
 * Software Demo 
-* Video
+* Video: https://youtu.be/sMD7itMy0rY
 
 ## Tools Used
 
