@@ -13,7 +13,7 @@ For this project, I...
 * researched the Data Bus Design Pattern
 * created a presentation showcasing my findings
 * developed this software project to apply the Data Bus Pattern
-* produce and edit a video presenting my research and demoing this project
+* produced and editted a video presenting my research and demoing this project
 
 ## Products
 
